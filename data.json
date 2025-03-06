@@ -1,0 +1,179 @@
+[
+    {
+        "type": "Curso",
+        "nombre": "Curso de HTML",
+        "link": "https://ejemplo.com/curso-html",
+        "plataforma": "Plataforma X"
+    },
+    {
+        "type": "Página",
+        "nombre": "Documentación de Bootstrap",
+        "link": "https://getbootstrap.com/"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "ADMINISTRADOR DE SUCURSAL",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=78"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "ADMINISTRACION DEL RIESGO Y CONTROL INTERNO 2024",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=66"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "CHANGE MANAGEMENT",
+        "categoria": "CULTURAL",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=71"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "CODIGO DE ETICA 2024",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=68"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "CONTINUIDAD DE NEGOCIO 2024",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=67"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "SEGURIDAD DE LA INFORMACION 2024",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=64"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "EMPRESARIO SIN CARTERA",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=49"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "EMPRESARIO CON CARTERA",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=48"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "ESPECIALISTA DE COBRANZA",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=50"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "RECOMPRAS (ADUANAS)",
+        "categoria": "OPERATIVO",
+        "subcategoria":"",
+        "tipo":"EVALUACION",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=73"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "PROTECCION DE DATOS PERSONALES 2024",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=65"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "JEFE DE RELACION",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=77"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "INTRODUCCION A ASG",
+        "categoria": "CULTURAL",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=70"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "INDUCCION",
+        "categoria": "CULTURAL",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=69"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "FILOSOFIA AGIL",
+        "categoria": "CULTURAL",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=72"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "COORDINADOR DE VENTA",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=74"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "COORDINADOR OPERATIVO",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=76"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "COORDINADOR DE NUEVOS",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=75"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "ERES",
+        "categoria":"OPERATIVO",
+        "subcategoria":"REFORZAMIENTO ANUAL 2024",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=46"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "EL ARTE DE PENSAR DIFERENTE",
+        "categoria": "HABILIDADES",
+        "subcategoria":"",
+        "tipo":"EVALUACION",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=51"
+    },
+    {
+        "type": "Recurso",
+        "nombre": "Guía de CSS",
+        "link": "https://ejemplo.com/guia-css",
+        "tipoArchivo": "PDF"
+    }
+]
