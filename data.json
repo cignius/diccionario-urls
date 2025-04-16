@@ -175,5 +175,21 @@
         "nombre": "Guía de CSS",
         "link": "https://ejemplo.com/guia-css",
         "tipoArchivo": "PDF"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "PROTECCION DE DATOS PERSONALES 2025",
+        "categoria": "NORMATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=102"
+    },
+    {
+        "type": "Reporte",
+        "nombre": "BASICO DE EMPRESARIOS",
+        "categoria": "OPERATIVO",
+        "subcategoria":"",
+        "tipo":"CURSO",
+        "link": "https://finconocer.fincomun.com.mx/report/customsql/view.php?id=142"
     }
 ]
